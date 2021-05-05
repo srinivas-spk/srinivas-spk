@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srinivas-spk
+- 👋 Hi, I’m SRINIVAS.B
 - 👀 I’m interested in Front-End Development and UI/UX Design
 - 🌱 I’m currently learning React.js
 - 📫 Reach me Mobile: +917892525186 (Email: srinivassrinu9036@gmail.com)
